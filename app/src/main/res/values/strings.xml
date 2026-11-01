@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PagePilot</string>
+    <string name="app_tagline">Private Offline AI Assistant</string>
+    <string name="nav_new_chat">New Chat</string>
+    <string name="nav_search_chats">Search Conversations</string>
+    <string name="nav_pinned_chats">Pinned Chats</string>
+    <string name="nav_recent_chats">Recent Chats</string>
+    <string name="nav_archived_chats">Archived Chats</string>
+    <string name="nav_projects">Projects (Milestone 3)</string>
+    <string name="nav_memory">User Memory (Milestone 3)</string>
+    <string name="nav_model_manager">Model Manager</string>
+    <string name="nav_architecture_spec">Model Architecture &amp; Spec</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about">About &amp; Build Status</string>
+    <string name="composer_placeholder">Ask PagePilot or test local model pipeline…</string>
+    <string name="no_model_loaded_banner">No trained PagePilot model is currently loaded. Open Model Manager to load a verified checkpoint or run pipeline verification.</string>
+    <string name="verification_mode_warning">PIPELINE VERIFICATION MODE: Active checkpoint uses randomly initialized weights (918,144 params, V=4096) strictly to validate binary parsing, KV-cache allocation, and token streaming. It is NOT a trained assistant.</string>
+</resources>

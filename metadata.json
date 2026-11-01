@@ -1,0 +1,6 @@
+{
+  "name": "PagePilot",
+  "description": "Private, completely offline native Android AI assistant with custom PagePilot Transformer architecture, SAF Model Manager, SHA-256 verification, 8 GB RAM telemetry, and Room SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
